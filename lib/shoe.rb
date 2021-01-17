@@ -13,4 +13,5 @@ class Shoe
   def cobbler(condition)
     puts "The shoe has been repaired!"
     shoe.condition = new
+  end
 end
