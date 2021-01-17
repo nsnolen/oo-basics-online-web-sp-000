@@ -10,7 +10,7 @@ class Shoe
     @brand
   end
 
-  def cobbler(condition)
+  def cobble(condition)
     puts "The shoe has been repaired!"
     shoe.condition = new
   end
